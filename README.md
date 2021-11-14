@@ -1,2 +1,2 @@
 # practise
-practise repo
+practise repo command demonstration
